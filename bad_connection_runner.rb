@@ -1,3 +1,3 @@
-require './bad_connection'
+require './lib/bad_connection'
 
 badconnection = BadConnection.new
